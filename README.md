@@ -15,3 +15,7 @@ Software architect and developer, agilist, rock climber. Giovanni is founder and
 You can find me on Twitter at [@giovannibassi](https://twitter.com/giovannibassi).
 
 Other ways to contact me can be found at https://links.giggio.net/bio.
+
+[![Giovanni Bassi's github stats](https://github-readme-stats.vercel.app/api?username=giggio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giggio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
